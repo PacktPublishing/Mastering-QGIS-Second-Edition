@@ -1,4 +1,4 @@
-# Mastering-QGIS-Second-Edition
+# Mastering QGIS Second Edition
 
 Software list:
 chapter 1 to 11 requires QGIS version 2.14
